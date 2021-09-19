@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreNaus.Common", "src\NetCoreNaus.Common\NetCoreNaus.Common.csproj", "{34B5E4DB-AE79-496E-A341-DF38FC250044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreNaus.Client", "src\NetCoreNaus.Client\NetCoreNaus.Client.csproj", "{22582B93-7AFE-4634-9F32-F525B776687B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B5E4DB-AE79-496E-A341-DF38FC250044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B5E4DB-AE79-496E-A341-DF38FC250044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B5E4DB-AE79-496E-A341-DF38FC250044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B5E4DB-AE79-496E-A341-DF38FC250044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22582B93-7AFE-4634-9F32-F525B776687B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22582B93-7AFE-4634-9F32-F525B776687B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22582B93-7AFE-4634-9F32-F525B776687B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22582B93-7AFE-4634-9F32-F525B776687B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3E867D-A703-4344-B8A7-DD1EF868785D}
+	EndGlobalSection
+EndGlobal
